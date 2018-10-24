@@ -1,0 +1,167 @@
+#nav1 {
+	background-color: #7ACCFF;
+	font-family: 'Coiny';
+	color: blue;
+}
+
+#div1 {
+	background-color: #7ACCFF;
+}
+
+.row {
+	height: 300px;
+}
+
+.col-6 h1 {
+	margin-top: 90px;
+	font-family: 'Coiny';
+	color: white;
+}
+.col-6 i {
+	font-size: 180px;
+	margin-top: 50px;
+	margin-left: 40px;
+}
+
+.col-4 {
+	margin-top: 25px;
+	text-align: center;
+}
+
+.col-4 i {
+	font-size: 80px;
+	padding: 10px;
+	
+}
+
+.col-4 h3 {
+	font-size: 18px;
+
+}
+
+.col-4 p {
+	font-size: 12px;
+}
+
+.div3 {
+	height: 130px;
+}
+
+#div3 {
+	color: white;
+	font-family: 'Coiny';
+	text-align: center;
+
+}
+
+.div3 h1 {
+	font-size: 22px;
+	margin-top: 10px;
+}
+
+.div3 p {
+	font-size: 8px;
+}
+
+
+
+#div4 .row {
+	height: 600px;
+}
+
+
+#div4 .col-4 img {
+	height: 150px;
+	width: 150px;
+
+}
+
+#div5 {
+	height: 700px;
+	background-color: grey;
+}
+
+#div5 .col-6 h1 {
+	margin-top: 90px;
+	font-family: 'Coiny';
+	color: black;
+}
+#div5 .col-6 i {
+	font-size: 180px;
+	margin-top: 70px;
+	margin-left: 150px;
+}
+
+#div6 {
+	text-align: center;
+	background-color: #FF7A7A;
+	height: 700px;
+	font-family: 'Coiny';
+}
+
+#div6 h1 {
+	color: white;
+	font-size: 24px;
+}
+
+#div6 p {
+	color: white;
+	font-size: 8px;
+}
+
+.card-body h2 {
+	color: black;
+}
+
+#div6 .card-body p {
+	color: black;
+	font-size: 16px;
+}
+
+
+
+#div7 {
+	text-align: center;
+	background-color: #7AFF8E;
+	height: 500px;
+	font-family: 'Coiny';
+}
+
+#div7 h1 {
+	color: white;
+	font-size: 24px;
+}
+
+#div7 p {
+	color: white;
+	font-size: 8px;
+}
+
+#div7 .card-body h2 {
+	color: black;
+	font-size: 10px;
+}
+
+#div7 .card-body p {
+	color: black;
+	font-size: 8px;
+}
+
+#div7 .card-body h3 {
+	font-size: 8px;
+}
+
+.card {
+	vertical-align: center;
+	margin: 5px;
+}
+
+#div8 {
+	text-align: center;
+	font-family: 'Coiny';
+	background-color: #313F33;
+	height: 500px;
+}
+
+
+
